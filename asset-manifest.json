@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bestPractic/static/css/main.5c0cb959.css",
+    "main.js": "/bestPractic/static/js/main.644bb846.js",
+    "static/js/787.dfdaa5d2.chunk.js": "/bestPractic/static/js/787.dfdaa5d2.chunk.js",
+    "static/media/vd5.mp4": "/bestPractic/static/media/vd5.d156576fabf5f97c1a8f.mp4",
+    "static/media/p1.jpg": "/bestPractic/static/media/p1.f107bf0fd2c738a55d3e.jpg",
+    "static/media/p2.png": "/bestPractic/static/media/p2.65616ee9a0e56137024e.png",
+    "static/media/p3.png": "/bestPractic/static/media/p3.3a569982a0e1fd2396af.png",
+    "static/media/p4.png": "/bestPractic/static/media/p4.3d3ddb7207f140c6f36d.png",
+    "static/media/p5.png": "/bestPractic/static/media/p5.bc03634b01000d0c5985.png",
+    "index.html": "/bestPractic/index.html",
+    "main.5c0cb959.css.map": "/bestPractic/static/css/main.5c0cb959.css.map",
+    "main.644bb846.js.map": "/bestPractic/static/js/main.644bb846.js.map",
+    "787.dfdaa5d2.chunk.js.map": "/bestPractic/static/js/787.dfdaa5d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c0cb959.css",
+    "static/js/main.644bb846.js"
+  ]
+}
